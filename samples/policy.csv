@@ -1,0 +1,4 @@
+service,limit_days,segments,qualification,can_suspend,hold_days
+verify,4,2,QV,yes,2
+register,3,1,QR,no,0
+appeal,6,2,QA,yes,1

@@ -1,0 +1,5 @@
+scenario,service,day,resuming_low,resuming_high,arrivals_low,arrivals_high
+normal,verify,2026-11-09,1,2,1,2
+normal,register,2026-11-10,0,0,2,3
+surge,verify,2026-11-09,2,4,3,6
+surge,appeal,2026-11-10,1,3,0,1

@@ -1,0 +1,14 @@
+slot,site,day,start,end,qualification,shared_staff,status
+S1,S,2026-11-09,09:00,10:00,QV,P1,cancelled
+S2,S,2026-11-09,10:00,11:00,QA,P2,cancelled
+S3,N,2026-11-09,09:00,11:00,QV,P3,open
+S4,N,2026-11-09,13:00,14:30,QA,P2,open
+S5,S,2026-11-09,13:00,14:00,QR,P2,proposed
+S6,S,2026-11-10,09:00,11:00,QV,P3,proposed
+S7,N,2026-11-10,09:30,11:00,QV,P3,open
+S8,S,2026-11-10,11:00,12:00,QR,P1,open
+H1,N,2026-10-26,10:30,11:30,QV,P3,open
+H2,S,2026-10-22,13:30,14:00,QR,P2,open
+H3,N,2026-10-29,09:30,10:30,QA,P2,open
+H4,S,2026-10-28,08:00,09:30,QV,P1,open
+H5,N,2026-10-30,08:30,10:00,QV,P3,open
